@@ -1,3 +1,18 @@
+#backup
+Backup/
+
+#Crash
+*.dmp
+CrashAutoSave.*
+
+#===TEST===
+
+#test
+Test/
+WIP/
+experimental/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
