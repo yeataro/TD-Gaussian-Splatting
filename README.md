@@ -12,6 +12,16 @@ You can take a look at the things in the `/playground` first. There are demos of
 ![image](docs/imgs/ListerView.jpg)
 ![image](docs/imgs/SmallViewer.jpg)
 
+## Depth / Dof
+![](docs/imgs/jpg/DOF3.jpg)
+
+## Relighting
+![relighting(https://x.com/yeataro/status/1722043516883210662)](docs/imgs/jpg/Relighting_cr.jpg)
+
+## Stylize
+![](docs/imgs/jpg/D.jpg)
+![](docs/imgs/jpg/C.jpg)
+
 
 
 
