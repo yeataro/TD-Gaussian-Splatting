@@ -16,7 +16,8 @@ You can take a look at the things in the `/playground` first. There are demos of
 ![](docs/imgs/jpg/DOF3.jpg)
 
 ## Relighting
-![relighting(https://x.com/yeataro/status/1722043516883210662)](docs/imgs/jpg/Relighting_cr.jpg)
+https://x.com/yeataro/status/1722043516883210662
+![relighting](docs/imgs/jpg/Relighting_cr.jpg)
 
 ## Stylize
 ![](docs/imgs/jpg/D.jpg)
